@@ -1,0 +1,17 @@
+{
+	"Modality": "MR",
+	"MagneticFieldStrength": 6.98,
+	"ImagingFrequency": 297.204454,
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Investigational_Device_7T",
+	"InstitutionName": "NIH 7T Research",
+	"InstitutionalDepartmentName": "Department",
+	"InstitutionAddress": "Center Drive 10,Bethesda.ea6fdd.,Maryland,US,20892",
+	"DeviceSerialNumber": "18926",
+	"StationName": "FMRIFD7T",
+	"BodyPartExamined": "HEAD",
+	"PatientPosition": "HFS",
+	"ProcedureStepDescription": "MRI Procedure Limited",
+	"SoftwareVersions": "syngo MR B17"
+	
+}

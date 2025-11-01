@@ -1,0 +1,1 @@
+{"SamplingFrequency":1000.0,"StartTime":0,"Columns":["respiratory","cardiac"],"respiratory":{"Units":"cm H20","Description":"continuous respiration measurement"},"cardiac":{"Units":"Volts","Description":"continuous pulse measurement"}}

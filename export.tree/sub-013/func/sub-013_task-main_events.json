@@ -1,0 +1,31 @@
+{
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Kind of event that may occur during a run",
+        "Levels": {
+            "image": "Image",
+            "fixation_change": "Fixation cross changes from black to red, indicating subject should respond",
+            "response": "Subject's response to fixation cross color change, using button box"
+        }
+    },
+    "image_category": {
+        "Description": "Category of image used in trial",
+        "Levels": {
+            "male":"Male faces", 
+            "female":"Female faces", 
+            "SiberianHusky":"Siberian Huskies", 
+            "toy_poodle":"Poodles", 
+            "airliner":"Airliners", 
+            "fighter": "Fighter planes", 
+            "jeep": "Jeeps", 
+            "sportscar": "Sports cars"
+        }
+    },
+    "reaction_time": {
+        "Description": "Subject reaction time to changing fixation cross",
+        "Units": "seconds"
+    }, 
+    "imnet_filename": { 
+        "Description": "Filename of stimulus on ImageNet."
+    }
+}
